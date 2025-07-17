@@ -1,0 +1,4 @@
+# Версии для Python 3.7 на Glitch
+python-telegram-bot==20.3
+fastapi==0.68.0
+uvicorn==0.14.0
